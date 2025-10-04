@@ -11,8 +11,8 @@ _(Link to thesis and calculator coming soon.)_
 
 🔧 Skills
 
-- **Excel: Data analysis, modeling, and custom calculators for engineering applications.
-- **ETABS: Structural analysis and design for buildings and infrastructure.
+- Excel: Data analysis, modeling, and custom calculators for engineering applications.
+- ETABS: Structural analysis and design for buildings and infrastructure.
 - AutoCad: architectural plans and designs
 - Revit: Architectural plans and design
 
